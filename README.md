@@ -9,11 +9,6 @@ This C++ sorting program demonstrates mastery of basic concepts in C++. This app
 - File output
 - Program planning and edge case testing
 
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
 ## Authors
 
