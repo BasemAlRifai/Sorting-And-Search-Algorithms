@@ -1,0 +1,24 @@
+# C++ Sorting Algorithms
+
+This C++ sorting program demonstrates mastery of basic concepts in C++. This application was created for my CMSC140 class at Montgomery College. It generates 200 random integers and stores them into an array. It then uses bubble sort to sort the array in O(n^2) and asks the user to enter a key value to find. If the value is valid, the program will search for it using both binary search and linear search, showing an obvious speed difference. This is my first complete program in C++ that includes everything I learned in the class. This project was done in full by myself.
+
+## Lessons learned
+- Variables, Conditionals, Loops, Functions
+- User driven programming
+- Bubble Sort, Binary Search, and Linear Search
+- File output
+- Program planning and edge case testing
+
+## Versioning
+
+We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
+available, see the [tags on this
+repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+
+## Authors
+
+  - Basem Al-Rifai
+  
+## Acknowledgments
+
+  - Professor Grigoriy Grinberg for project documentation.
