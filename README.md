@@ -1,5 +1,5 @@
 # Sorting and Search Algorithms
-This C++ sorting program demonstrates mastery of basic concepts in C++. This application was created for my CMSC140 class at Montgomery College. It generates 200 random integers and stores them into an array. It then uses bubble sort to sort the array in O(n^2) and asks the user to enter a key value to find. If the value is valid, the program will search for it using both binary search and linear search, showing an obvious speed difference. This is my first complete program in C++ that includes everything I learned in the class. This project was done in full by myself and is a good example of my coding style and meticulous documentation. 
+This C++ sorting program demonstrates mastery of basic concepts in C++. It generates 200 random integers and stores them into an array. It then uses bubble sort to sort the array in O(n^2) and asks the user to enter a key value to find. If the value is valid, the program will search for it using both binary search and linear search, showing an obvious speed difference. This is my first complete program in C++ that includes everything I learned in the class. This project was done in full by myself and is a good example of my coding style and meticulous documentation. 
 
 ## Programming concepts used
 - Variables, Conditionals, Loops, Functions
