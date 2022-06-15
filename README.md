@@ -13,6 +13,6 @@ This C++ sorting program demonstrates mastery of basic concepts in C++. It gener
 - Measuring the time difference between algorithms can give more insight into how they work and possibly add the ability to visualize the big O of them. 
 
 ## Acknowledgement
-All project supplementary files not written by myself belong to Montgomery College  
+School: Montgomery College
 Course: CS140  
 Professor: Greg Grinberg  
